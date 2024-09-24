@@ -7,7 +7,7 @@ public partial class HangHoa
 {
     public int MaHh { get; set; }
 
-    public string TenHh { get; set; } = null!;
+    public string TenHh { get; set; }
 
     public string? TenAlias { get; set; }
 
